@@ -2,8 +2,7 @@
     # Howdy! 👋
 
 
-<p> <img src="https://komarev.com/ghpvc/?username=cartel360&label=Profile%20views&color=0e75b6&style=flat"/> </p>
-
+![](https://komarev.com/ghpvc/?username=larsensong&color=green)
 ```cli
 larsensong@github:~ $ whoami
  • 👨🏾‍💻 I'm a Software Engineer.
