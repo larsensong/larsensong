@@ -1,15 +1,14 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
-         alt="Waving hand animated gif"
-         height="45"
-         width="45" />, Howdy! larsen 
+<h1 
+    # Howdy! 👋
 </h1>
 
 <p> <img src="https://komarev.com/ghpvc/?username=cartel360&label=Profile%20views&color=0e75b6&style=flat"/> </p>
 
 ```cli
- • 😎 I'm Larsen Mulamba
+larsensong@github:~ $ whoami
  • 👨🏾‍💻 I'm a Software Engineer.
- 
+ • 😎 Tech Enthusiast
+ • 😆 Tech junkie
 ```
 
 
