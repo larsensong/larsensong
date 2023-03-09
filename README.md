@@ -5,7 +5,7 @@
 ![](https://komarev.com/ghpvc/?username=larsensong&color=green)
 ```cli
 larsensong@github:~ $ whoami
- • 👨🏾‍💻 I'm a Software Engineer.
+ • 👨🏾‍💻 I'm a junior Software Engineer.
  • 😆 Tech junkie
 ```
 
