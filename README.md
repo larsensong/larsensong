@@ -29,7 +29,7 @@ larsensong@github:~ $ whoami
 
 
 
-### Get in
+### Social
 
 <a href="https://twitter.com/larsen_mulamba/">
   <img align="left" alt="Larsen Mulamba| Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
