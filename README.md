@@ -32,7 +32,7 @@ larsensong@github:~ $ whoami
 ### Social Platforms
 
 <a href="https://twitter.com/larsen_mulamba/">
-  <img align="left" alt="Larsen Mulamba| " width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Larsen Mulamba| x" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/Larsen-Mulamba-236a0718b/">
   <img align="left" alt="Mulamba's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
