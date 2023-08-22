@@ -32,10 +32,6 @@ larsensong@github:~ $ whoami
 ### Social Platforms
 
 <a href="https://www.linkedin.com/in/Larsen-Mulamba-236a0718b/">
-  
-
-
-
 
 
 
