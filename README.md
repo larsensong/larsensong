@@ -29,7 +29,7 @@ larsensong@github:~ $ whoami
 
 
 
-### Social Platforms
+### Social 
 
 <p>
     <a href="https://twitter.com/@larsen_mulamba"><img src="https://img.icons8.com/color/50/000000/twitter-squared.png" alt="twitter"/></a>
