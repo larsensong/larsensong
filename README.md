@@ -10,7 +10,7 @@ larsensong@github:~ $ whoami
 ```
 
 
-### :octocat: My stats🕔.
+### :octocat: My stats🕔
   <table>
   <tr>
       <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=larsensong&show_icons=true"/></td>
